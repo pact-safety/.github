@@ -1,18 +1,24 @@
-# PACT — Public Alignment & Control Tooling
+# PACT: Public Alignment & Control Tooling
 
-PACT builds open-source research infrastructure, diagnostic tooling, and practice environments to equip independent AI safety researchers and disrupt power concentration in AI alignment.
+Open tools for independent AI safety research.
 
----
+PACT builds research infrastructure, diagnostic tooling and practice environments for people doing AI safety work outside the big labs.
 
-### Tools & Infrastructure
-* **[Bench](https://github.com/pact-safety/bench)** ([bench.pact-safety.dev](https://bench.pact-safety.dev)) — A deliberate-practice environment for engineers transitioning into AI safety research engineering. Features a 5-phase structure (explore, brainstorm, plan, implement, verify), spaced retrieval, zero streaks or scores, self-hostable, and BYOK.
+### Tools
 
----
+- **[bench](https://github.com/pact-safety/bench)** ([bench.pact-safety.dev](https://bench.pact-safety.dev)): a deliberate-practice environment for engineers moving into AI safety research engineering. Self-hostable, runs on your own API keys.
+- **Touchstone** (in development): rate evals live, against public standards.
+
+Open tools other people built, with citations, are collected on the [Resources page](https://pact-safety.org/resources/).
 
 ### Principles
-* **Open & Accessible:** BYOK, self-hostable, and zero lock-in.
-* **Empowering Independents:** Built to give independent researchers outsized leverage.
-* **Rigorous Craftsmanship:** Uncompromising benchmarks and audit harnesses.
 
-🌐 **Website:** [pact-safety.org](https://pact-safety.org)  
-📄 **Docs:** [pact-safety.dev](https://pact-safety.dev)
+- **Open & accessible:** open source, self-hostable, runs on your own API keys (BYOK). No lock-in.
+- **Built for independents:** sized for one researcher or a small team, with the leverage a lab's internal tooling gives its staff.
+- **Rigor you can check:** benchmarks and audit harnesses ship with what you need to rerun them and get the same answer.
+
+### Links
+
+- Website: [pact-safety.org](https://pact-safety.org)
+- Code: [github.com/pact-safety](https://github.com/pact-safety)
+- Contact: [hello@pact-safety.org](mailto:hello@pact-safety.org)
