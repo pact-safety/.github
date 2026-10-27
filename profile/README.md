@@ -17,6 +17,15 @@ Open tools other people built, with citations, are collected on the [Resources p
 - **Built for independents:** sized for one researcher or a small team, with the leverage a lab's internal tooling gives its staff.
 - **Rigor you can check:** benchmarks and audit harnesses ship with what you need to rerun them and get the same answer.
 
+### How to get a repo
+
+Only org owners create repositories here. To start a project under PACT:
+
+1. Open an issue in [pact-safety/.github](https://github.com/pact-safety/.github/issues/new) (or email [hello@pact-safety.org](mailto:hello@pact-safety.org)) with the project name, a one-paragraph description, public or private, and who needs write access.
+2. An owner reviews it, creates the repo with the org's security settings, and adds you.
+
+Public repos get secret scanning, push protection, code scanning and Dependabot automatically.
+
 ### Links
 
 - Website: [pact-safety.org](https://pact-safety.org)
